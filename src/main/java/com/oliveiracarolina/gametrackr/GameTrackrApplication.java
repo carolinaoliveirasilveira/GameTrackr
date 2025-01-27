@@ -1,13 +1,13 @@
-package com.oliveiracarolina.dslist;
+package com.oliveiracarolina.gametrackr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DslistApplication {
+public class GameTrackrApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DslistApplication.class, args);
+		SpringApplication.run(GameTrackrApplication.class, args);
 	}
 
 }

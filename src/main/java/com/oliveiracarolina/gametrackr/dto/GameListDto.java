@@ -1,6 +1,6 @@
-package com.oliveiracarolina.dslist.dto;
+package com.oliveiracarolina.gametrackr.dto;
 
-import com.oliveiracarolina.dslist.entities.GameList;
+import com.oliveiracarolina.gametrackr.entities.GameList;
 
 public class GameListDto {
 

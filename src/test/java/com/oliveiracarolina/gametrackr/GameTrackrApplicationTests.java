@@ -1,10 +1,10 @@
-package com.oliveiracarolina.dslist;
+package com.oliveiracarolina.gametrackr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DslistApplicationTests {
+class GameTrackrApplicationTests {
 
 	@Test
 	void contextLoads() {

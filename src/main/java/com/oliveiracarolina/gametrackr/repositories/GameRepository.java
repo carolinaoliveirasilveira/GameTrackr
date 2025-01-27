@@ -1,7 +1,7 @@
-package com.oliveiracarolina.dslist.repositories;
+package com.oliveiracarolina.gametrackr.repositories;
 
-import com.oliveiracarolina.dslist.entities.Game;
-import com.oliveiracarolina.dslist.projections.GameMinProjection;
+import com.oliveiracarolina.gametrackr.entities.Game;
+import com.oliveiracarolina.gametrackr.projections.GameMinProjection;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

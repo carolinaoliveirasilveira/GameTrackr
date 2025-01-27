@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.oliveiracarolina</groupId>
-	<artifactId>dslist</artifactId>
+	<artifactId>gametrackr</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dslist</name>
 	<description>intensivo Java Spring</description>

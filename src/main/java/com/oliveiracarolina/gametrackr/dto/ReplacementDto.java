@@ -1,4 +1,4 @@
-package com.oliveiracarolina.dslist.dto;
+package com.oliveiracarolina.gametrackr.dto;
 
 public class ReplacementDto {
 

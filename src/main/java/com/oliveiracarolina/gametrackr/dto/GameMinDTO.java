@@ -1,8 +1,7 @@
-package com.oliveiracarolina.dslist.dto;
+package com.oliveiracarolina.gametrackr.dto;
 
-import com.oliveiracarolina.dslist.entities.Game;
-import com.oliveiracarolina.dslist.projections.GameMinProjection;
-import jakarta.persistence.Column;
+import com.oliveiracarolina.gametrackr.entities.Game;
+import com.oliveiracarolina.gametrackr.projections.GameMinProjection;
 
 public class GameMinDTO {
 

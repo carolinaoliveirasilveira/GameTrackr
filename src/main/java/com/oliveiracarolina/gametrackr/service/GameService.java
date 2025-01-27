@@ -1,10 +1,10 @@
-package com.oliveiracarolina.dslist.service;
+package com.oliveiracarolina.gametrackr.service;
 
-import com.oliveiracarolina.dslist.dto.GameDto;
-import com.oliveiracarolina.dslist.dto.GameMinDTO;
-import com.oliveiracarolina.dslist.entities.Game;
-import com.oliveiracarolina.dslist.projections.GameMinProjection;
-import com.oliveiracarolina.dslist.repositories.GameRepository;
+import com.oliveiracarolina.gametrackr.dto.GameDto;
+import com.oliveiracarolina.gametrackr.dto.GameMinDTO;
+import com.oliveiracarolina.gametrackr.entities.Game;
+import com.oliveiracarolina.gametrackr.projections.GameMinProjection;
+import com.oliveiracarolina.gametrackr.repositories.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

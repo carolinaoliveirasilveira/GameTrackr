@@ -1,10 +1,8 @@
-package com.oliveiracarolina.dslist.controller;
+package com.oliveiracarolina.gametrackr.controller;
 
-import com.oliveiracarolina.dslist.dto.GameDto;
-import com.oliveiracarolina.dslist.dto.GameMinDTO;
-import com.oliveiracarolina.dslist.entities.Game;
-import com.oliveiracarolina.dslist.repositories.GameRepository;
-import com.oliveiracarolina.dslist.service.GameService;
+import com.oliveiracarolina.gametrackr.dto.GameDto;
+import com.oliveiracarolina.gametrackr.dto.GameMinDTO;
+import com.oliveiracarolina.gametrackr.service.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

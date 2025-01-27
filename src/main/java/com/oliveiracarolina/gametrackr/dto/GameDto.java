@@ -1,6 +1,6 @@
-package com.oliveiracarolina.dslist.dto;
+package com.oliveiracarolina.gametrackr.dto;
 
-import com.oliveiracarolina.dslist.entities.Game;
+import com.oliveiracarolina.gametrackr.entities.Game;
 import org.springframework.beans.BeanUtils;
 
 public class GameDto {

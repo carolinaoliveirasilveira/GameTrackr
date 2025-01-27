@@ -1,4 +1,4 @@
-package com.oliveiracarolina.dslist.entities;
+package com.oliveiracarolina.gametrackr.entities;
 
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;

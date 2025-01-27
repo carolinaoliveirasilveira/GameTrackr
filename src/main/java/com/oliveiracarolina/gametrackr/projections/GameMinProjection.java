@@ -1,4 +1,4 @@
-package com.oliveiracarolina.dslist.projections;
+package com.oliveiracarolina.gametrackr.projections;
 
 public interface GameMinProjection {
 
