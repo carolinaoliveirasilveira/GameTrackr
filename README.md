@@ -1,6 +1,6 @@
-# DSList
+# GameTrackr
 
-O projeto **DSList** é uma aplicação back-end desenvolvida durante o Intensivão Java Spring, um evento promovido pela DevSuperior. Durante essa semana de aprendizado, explorei conceitos fundamentais como a arquitetura cliente/servidor, protocolo HTTP, uso de JSON, padrão REST para APIs web e estruturação de projetos Spring REST. Também aprofundei conhecimentos em mapeamento de entidades com ORM, database seeding, padrões de camadas (controller, service e repository), utilização de DTOs, relacionamento N-N, classes de associação, embedded ID e consultas SQL com o Spring Data JPA.
+O projeto **GameTrackr** é uma aplicação back-end criada para organizar e gerenciar informações sobre jogos. Desenvolvida durante o Intensivão Java Spring, um evento promovido pela DevSuperior. Durante essa semana de aprendizado, explorei conceitos fundamentais como a arquitetura cliente/servidor, protocolo HTTP, uso de JSON, padrão REST para APIs web e estruturação de projetos Spring REST. Também aprofundei conhecimentos em mapeamento de entidades com ORM, database seeding, padrões de camadas (controller, service e repository), utilização de DTOs, relacionamento N-N, classes de associação, embedded ID e consultas SQL com o Spring Data JPA.
 
 
 # Tecnologias utilizadas
